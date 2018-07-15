@@ -11,8 +11,11 @@ This application is done in term of graduation project dedicated for research pu
 
 ## Installation:
 To easy install the necessary modules you could type this command :
+
 `python setup.py install`
+
 or if you have multiple python version :
+
 `python3.5 setup.py install`
 
 ## Warning:
