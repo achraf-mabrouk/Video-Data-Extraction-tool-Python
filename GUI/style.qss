@@ -1,0 +1,34 @@
+QMainWindow,QDialog {
+    background-color: #222222;
+}
+QLineEdit {
+   background-color: aliceblue;
+}
+
+QLabel {
+    color: white;
+    font-weight: bold;
+    position: absolute;
+    color: #618b38;
+}
+QCheckBox {
+    color : white;
+     spacing: 5px;
+ }
+QCheckBox:checked {
+       color: rgb(35, 126, 163);
+}
+QPushButton {
+    color :white;
+}
+QPushButton#search_btn {
+        background-color: #0097e6;
+}
+QPushButton#ShowDownloadedVideos_btn {
+        background-color: #c23616;
+}
+
+QPushButton#DownloadAll_btn {
+        background-color: #182C61;
+}
+
