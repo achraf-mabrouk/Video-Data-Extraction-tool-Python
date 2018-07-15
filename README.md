@@ -19,7 +19,7 @@ or if you have multiple python version :
 
 `python3.5 setup.py install`
 
-to run the app ***GUI/MainMenu.py*** is the main of the tool.
+to run the app ***GUI/MainMenu.py*** is the main of the program.
 
 ## Warning:
 this tool was implemented on Ubuntu, it may produce errors in windows because of the difference between linux path and windows path. You can change it to avoid this Error.
