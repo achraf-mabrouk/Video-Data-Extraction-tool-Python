@@ -7,6 +7,7 @@ This application is done in term of graduation project dedicated for research pu
 - Python v3.5+
 - FFmpeg
 - OpenCV
+- PyQT5
 
 
 ## Installation:
