@@ -1,12 +1,22 @@
 # Video-Data-Mining-tool-Python
+
+## Description
 A tool allows you to Search(crawl), Download online videos and Extract(Audio and Images) for each downloaded video.
 This application is done in term of graduation project dedicated for research purposes.
 ## Requirements:
-- Python3.5
-- OpenCV
+- Python V3.5+
 - FFmpeg
+- OpenCV
+
+
+## Installation:
+To easy install the necessary modules you could type this command :
+`python setup.py install`
+or if you have multiple python version :
+`python3.5 setup.py install`
+
 ## Warning:
-this tool 
+this tool was implemented on Ubuntu, it may produce errors in windows because of the difference between linux path and windows path. You can change it to avoid this Error.
 
 
 ## Results:
