@@ -19,7 +19,7 @@ or if you have multiple python version :
 
 `sudo python3.5 setup.py install`
 
-# OpenCV installation :
+## OpenCV installation :
 
 `sudo pip3 install opencv-python`
 
