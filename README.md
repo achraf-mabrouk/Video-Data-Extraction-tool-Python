@@ -23,7 +23,7 @@ or if you have multiple python version :
 
 `sudo pip3 install opencv-python`
 
-
+## Run the tool :
 to run the app ***GUI/MainMenu.py*** is the main of the program.
 
 ## Warning:
