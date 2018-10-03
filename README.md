@@ -19,6 +19,11 @@ or if you have multiple python version :
 
 `sudo python3.5 setup.py install`
 
+# OpenCV installation :
+
+`sudo pip3 install opencv-python`
+
+
 to run the app ***GUI/MainMenu.py*** is the main of the program.
 
 ## Warning:
