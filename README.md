@@ -27,7 +27,7 @@ or if you have multiple python version :
 to run the app ***GUI/MainMenu.py*** is the main of the program.
 
 ## Warning:
-this tool was implemented on Ubuntu, it may produce errors in windows because of the difference between linux path and windows path. You can change it to avoid this Error.
+this tool was implemented on Ubuntu, it may produce errors on windows because of the difference between linux path and windows path. You can change it to avoid this Error.
 
 
 ## Results:
