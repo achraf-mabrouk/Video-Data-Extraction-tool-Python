@@ -1,4 +1,4 @@
-# Video-Data-segmentation-tool-Python
+# Video-Data-extraction-tool-Python
 
 ## Description
 A tool allows you to Search, Download online videos and Extract(Audio and Images) for each downloaded video.
