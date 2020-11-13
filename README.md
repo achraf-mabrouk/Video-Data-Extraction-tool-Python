@@ -1,7 +1,7 @@
-# Video-Data-Mining-tool-Python
+# Video-Data-segmentation-tool-Python
 
 ## Description
-A tool allows you to Search(crawl), Download online videos and Extract(Audio and Images) for each downloaded video.
+A tool allows you to Search, Download online videos and Extract(Audio and Images) for each downloaded video.
 This application is done in term of graduation project dedicated for research purposes.
 ## Requirements:
 - Python v3.5+
