@@ -26,7 +26,7 @@ or if you have multiple python version :
 ## Run the tool :
 to run the app ***GUI/MainMenu.py*** is the main of the program.
 
-![alt text](https://github.com/achraf-mabrouk/Video-Data-Extraction-tool-Python/blob/master/after_search.png | width=100)
+![alt text](https://github.com/achraf-mabrouk/Video-Data-Extraction-tool-Python/blob/master/after_search.png =250x250)
 
 ## Warning:
 this tool was implemented on Ubuntu, it may produce errors on windows because of the difference between linux path and windows path. You can change it to avoid this Error.
