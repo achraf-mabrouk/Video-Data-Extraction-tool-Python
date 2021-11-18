@@ -8,7 +8,7 @@ This application is done in term of graduation project dedicated for research pu
 - FFmpeg
 - OpenCV
 - PyQT5
-
+- youtube_dl
 
 ## Installation:
 To easy install the necessary modules you could type this command :
