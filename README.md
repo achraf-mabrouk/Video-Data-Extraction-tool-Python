@@ -23,8 +23,8 @@ or if you have multiple python version :
 
 `sudo pip3 install opencv-python`
 
-## Run the tool :
-to run the app ***GUI/MainMenu.py*** is the main of the program.
+## How to run the tool :
+To **run** the app ***GUI/MainMenu.py*** is the main of the program.
 
 <img src="https://github.com/achraf-mabrouk/Video-Data-Extraction-tool-Python/blob/master/after_search.png" alt="alt text" width="700px" height="500px">
 
